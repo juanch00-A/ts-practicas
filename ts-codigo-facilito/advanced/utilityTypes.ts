@@ -1,0 +1,1 @@
+//Documentacion de todos los utiliti types: https://www.typescriptlang.org/docs/handbook/utility-types.html#handbook-content
